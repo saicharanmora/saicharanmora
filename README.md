@@ -1,4 +1,4 @@
-![logo](https://github.com/saicharanmora/sai_mora/blob/main/Mora%20Sai%20Charan.png)
+![logo](https://github.com/saicharanmora/saicharanmora/blob/main/Mora%20Sai%20Charan.png)
 <h1 align="center">Hi 👋, I'm Mora Sai Charan</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
