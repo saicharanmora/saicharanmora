@@ -1,6 +1,5 @@
-![logo](https://github.com/saicharanmora/saicharanmora/blob/main/Mora%20Sai%20Charan.png)
 <h1 align="center">Hi there. I'm Sai Mora👋</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">A passionate Data Science Trainee from India</h3>
 
 <img align="right" alt="Data science" width="400" src=https://sithcomputers.com/wp-content/uploads/2023/03/Data-Science.gif>
 
@@ -8,11 +7,13 @@
 
 - 🔭 I’m currently working on **Data Science Projects**
 
-- 🌱 I’m addicted to **learn and grow everyday**
+- 👨‍💻 I am adept at translating data insights into strategic **business intiatives**
 
-- 👯 I’m looking to **work with a company**
+- 👯 I’m looking forward to **work with a company**
 
 - 🤝 When opportunities arise or challenges present themselves, **I seize them to showcase my skills and drive impactful solutions**
+
+- 💡My Focus is on developing algorithms that not only **predict trends but also drive actionable business decisions**
 
 - 📫 How to reach me **saicharanm000@gmail.com**
 
@@ -33,3 +34,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saicharanmora&show_icons=true&locale=en" alt="saicharanmora" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saicharanmora&" alt="saicharanmora" /></p>
+
